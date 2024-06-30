@@ -5,7 +5,7 @@ import profile_image from './profile_image.png'
 import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 
-export const url = 'https://food-del-backend-baaw.onrender.com'
+export const url = 'https://food-del-backend-wzja.onrender.com'
 export const currency = '₹'
 
 export const assets ={
