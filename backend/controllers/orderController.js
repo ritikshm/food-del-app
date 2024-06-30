@@ -6,7 +6,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 //config variables
 const currency = "inr";
 const deliveryCharge = 50;
-const frontend_URL = 'https://fooddelivery-frontend-16im.onrender.com';
+const frontend_URL = 'https://food-del-frontend-hozx.onrender.com';
 
 // Placing User Order for Frontend using stripe
 const placeOrder = async (req, res) => {
